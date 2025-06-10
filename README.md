@@ -1,4 +1,4 @@
-# LAN-Scan
+# LAN Scan
 
 Simple Python script to scan local networks for IPs, MAC addresses, and resolve MAC vendors.
 
@@ -23,6 +23,7 @@ Run terminal as administrator.
 ```
 python lan-scan.py
 ```
+
 
 Root privilege is required on most systems to send ARP requests.
 
